@@ -9,4 +9,4 @@ Among below mentioned Classification models:-
 4. Gaussian Naive Bias
 5. Support Vector Machine (SVM)
 
-**KNN has hiighest accuracy at K=5.**
+**KNN has highest accuracy at K=5.**
